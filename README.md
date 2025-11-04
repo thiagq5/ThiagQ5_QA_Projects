@@ -41,5 +41,5 @@ I am dedicated to finding an entry-level QA position (Graduate, Intern, or Part-
 
 ## 📞 Connect with Me
 
--   **LinkedIn:** [www.linkedin.com/in/thiago-souza-q5](www.linkedin.com/in/thiago-souza-q5)
--   **Email:** `quintothiago88@gmail.com
+-   **LinkedIn:** [https://www.linkedin.com/in/thiago-souza-q5/](https://www.linkedin.com/in/thiago-souza-q5/)
+-   **Email:** quintothiago88@gmail.com
